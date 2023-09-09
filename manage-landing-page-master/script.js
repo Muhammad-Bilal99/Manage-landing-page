@@ -12,7 +12,7 @@ hamburger.addEventListener('click', () => {
   }
 })
 
-const slider = document.querySelector('.testimonials');
+const slider = document.querySelector('.testimonials-container');
 let isDown = false;
 let startX;
 let scrollLeft;
